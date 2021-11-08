@@ -1,8 +1,9 @@
 # Compute@Edge starter kit for Flight Path
 
-Flight Path is a lightweight and minimal routing layer for C@E apps. 
+Flight Path is a lightweight and minimal routing layer for C@E apps.
 
 For more information, see the [Flight Path Docs](https://flight-path.edgecompute.app/)
+
 ## Understanding the code
 
 The code in `src/index.js` creates a `Router` object and registers routes.
