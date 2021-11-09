@@ -8,7 +8,6 @@ router.use((req, res) => {
   res.setHeader("x-powered-by", "Fastly C@E - Flight Path");
 });
 
-
 // Bind to GET requests on /
 router.get("/", (req,res) => {
   res.send("Hello World!")
